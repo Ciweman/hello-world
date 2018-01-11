@@ -1,3 +1,3 @@
 # hello-world
 TheBegining
-CHemist from USM learning to code
+Chemist from USM learning to code
